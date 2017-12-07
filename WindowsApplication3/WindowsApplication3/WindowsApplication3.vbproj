@@ -79,6 +79,12 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormBr2_Br1Base.Designer.vb">
+      <DependentUpon>FormBr2_Br1Base.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBr2_Br1Base.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmBranch1.Designer.vb">
       <DependentUpon>frmBranch1.vb</DependentUpon>
     </Compile>
